@@ -1,0 +1,73 @@
+.title{
+    font-size: 60px;
+    float: left;
+    margin-left: 550px;
+    margin-right: 200px;
+    color:rgb(34, 154, 161);
+    text-decoration: underline;
+}
+body{
+    background-color: #222;
+}
+.project1{
+    width: 900px;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 250px;
+    margin-right: 350px;
+    margin-top: 90px;
+    background-color: rgb(34, 154, 161);
+    padding:12px;
+}
+.project1pic{
+    float: right;
+    height:200px;
+    width:200px;
+    padding: 12px;
+}
+.project1title{
+    text-decoration: underline;
+}
+.project2{
+    width: 900px;
+    font-size: 20px;
+    float: center;
+    font-style: italic;
+    margin-left: 250px;
+    margin-right: 450px;
+    margin-top: 90px;
+    background-color: rgb(34, 154, 161);
+    padding:12px;
+}
+.project2pic{
+    float: right;
+    height:200px;
+    width:200px;
+    padding: 12px;
+    object-fit: coverf;
+}
+.project2title{
+    text-decoration: underline;
+}
+.project3{
+    width: 900px;
+    font-size: 20px;
+    float: center;
+    font-style: italic;
+    margin-left: 250px;
+    margin-right: 350px;
+    margin-top: 90px;
+    margin-bottom: 100px;
+    background-color: rgb(34, 154, 161);
+    padding:12px;
+}
+.project3pic{
+    float: right;
+    height:200px;
+    width:200px;
+    padding: 12px;
+    object-fit: cover;
+}
+.project3title{
+    text-decoration: underline;
+}

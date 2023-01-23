@@ -1,0 +1,71 @@
+.title{
+    font-size: 60px;
+    float: left;
+    margin-left: 100px;
+    margin-right: 550px;
+    color:rgb(34, 154, 161);
+    text-decoration: underline;
+}
+body{
+    background-color: #222;
+}
+.pastrychef{
+    width: 700px;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 90px;
+    background-color: rgb(34, 154, 161);
+    padding:12px;
+}
+.pastrypic{
+    float: right;
+    height:200px;
+    width:200px;
+    padding: 12px;
+}
+.pctitle{
+    text-decoration: underline;
+}
+.sailing{
+    width: 700px;
+    font-size: 20px;
+    float: center;
+    font-style: italic;
+    margin-left: 350px;
+    margin-right: 450px;
+    background-color: rgb(34, 154, 161);
+    padding:12px;
+}
+.sailpic{
+    float: right;
+    height:200px;
+    width:200px;
+    padding: 12px;
+    object-fit: coverf;
+}
+.sailtitle{
+    text-decoration: underline;
+}
+.comedy{
+    width: 700px;
+    font-size: 20px;
+    float: center;
+    font-style: italic;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 100px;
+    background-color: rgb(34, 154, 161);
+    padding:12px;
+}
+.comedypic{
+    float: right;
+    height:200px;
+    width:200px;
+    padding: 12px;
+    object-fit: cover;
+}
+.comedytitle{
+    text-decoration: underline;
+}
