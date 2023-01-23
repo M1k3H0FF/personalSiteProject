@@ -30,8 +30,7 @@
 }
 .navigation ul li{
     display:inline-table;
-    margin-right: 40px;
-    margin-top: 20px;
+    margin: 20px;
 }
 .footer{
     display: flex;

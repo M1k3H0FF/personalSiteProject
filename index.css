@@ -1,11 +1,13 @@
 .quote{
     display:flex;
-    inline-size: 700px;
-    font-size: 50px;
+    inline-size: 500px;
+    font-size: 40px;
     float: left;
     font-style: italic;
     margin-left: 100px;
     margin-top: 110px;
+    color: rgb(34, 154, 161);
+    
 }
 .picture{
     display:flex;
@@ -21,6 +23,6 @@
 .title{
     display: flex;
     font-size: 60px;
-    float: left;
-    margin-left: 100px;
+    margin: 20px;
+    color:  rgb(34, 154, 161);
 }
