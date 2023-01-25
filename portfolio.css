@@ -1,8 +1,9 @@
 .title{
+    display:flex;
     font-size: 60px;
-    float: left;
-    margin-left: 550px;
-    margin-right: 200px;
+    
+    /* margin-left: 550px;
+    margin-right: 200px; */
     color:rgb(34, 154, 161);
     text-decoration: underline;
 }
